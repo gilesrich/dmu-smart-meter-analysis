@@ -1,2 +1,2 @@
 # dmu-smart-meter-analysis
-# reading smart meter data in csv format and display in various graphical methods
+reading smart meter data in csv format and display with various graphical methods
